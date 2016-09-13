@@ -1,1 +1,2 @@
-# AllScan.github.io
+# Harvest
+Website template based upon Material Design standards
